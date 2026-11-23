@@ -29,7 +29,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-Codex glyph: https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/codex.svg
+OpenAI / ChatGPT mark used for Codex: https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/openai.svg
 Source license:
 MIT License
 

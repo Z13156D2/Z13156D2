@@ -28,8 +28,8 @@ Dexterous manipulation and teleoperation, with a focus on hand retargeting, moti
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/tech-tools-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/tech-tools-light.svg" alt="MuJoCo, Isaac Sim, Verasonics, SolidWorks, EasyEDA, Codex, Claude Code and Adobe Illustrator" width="440" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/tech-tools-dark.svg?v=full-wordmark" />
+    <img src="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/tech-tools-light.svg?v=full-wordmark" alt="MuJoCo, Isaac Sim, Verasonics, SolidWorks, EasyEDA, Codex, Claude Code and Adobe Illustrator" width="440" height="48" />
   </picture>
 </p>
 
