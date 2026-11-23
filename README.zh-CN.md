@@ -27,8 +27,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/robotics-tools.svg" alt="MuJoCo、Isaac Sim、Verasonics 与 SolidWorks" width="420" /><br />
-  <img src="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/engineering-tools.svg" alt="立创EDA、Codex、Claude Code 与 Adobe Illustrator" width="420" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/tech-tools-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/tech-tools-light.svg" alt="MuJoCo、Isaac Sim、Verasonics、SolidWorks、立创EDA、Codex、Claude Code 与 Adobe Illustrator" width="440" height="48" />
+  </picture>
 </p>
 
 | 方向 | 技术与能力 |
