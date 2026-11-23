@@ -6,7 +6,7 @@ English · [简体中文](https://github.com/Z13156D2/Z13156D2/blob/main/README.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1200&color=2F81F7&center=true&vCenter=true&width=840&height=60&lines=Dexterous+Manipulation+%C2%B7+Teleoperation;Hand+Retargeting+%C2%B7+VLA+Post-Training;Robot+Control+%C2%B7+Robot+Data+%C2%B7+Ultrasound" alt="Dexterous Manipulation · Teleoperation · Hand Retargeting · VLA Post-Training · Robot Control · Robot Data · Ultrasound" width="100%" />
 
-Building dexterous manipulation and teleoperation systems through hand retargeting, VLA post-training, robot control, and robotics data workflows, alongside ultrasound signal processing.
+Dexterous manipulation and teleoperation, with a focus on hand retargeting, motion capture, VLA post-training, embodied data pipelines, robot control, and ultrasound signal processing.
 
 </div>
 
@@ -26,6 +26,11 @@ Building dexterous manipulation and teleoperation systems through hand retargeti
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/robotics-tools.svg" alt="MuJoCo, Isaac Sim, Verasonics and SolidWorks" width="420" /><br />
+  <img src="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/engineering-tools.svg" alt="EasyEDA, Codex, Claude Code and Adobe Illustrator" width="420" />
+</p>
+
 | Area | Technologies & Skills |
 | --- | --- |
 | **Programming & Build** | Python · C/C++ fundamentals · CMake · MATLAB · Git |
@@ -33,8 +38,9 @@ Building dexterous manipulation and teleoperation systems through hand retargeti
 | **Hardware & SDKs** | AUBO arms · Inspire hands · NOITOM & PICO motion capture · RealSense cameras · Real-robot experience with manipulators and humanoids |
 | **Algorithms & Models** | Kinematics · Dynamics · Pose Representations · Trajectory Planning · Deep Learning · Reinforcement Learning · PyTorch · SMPL-X · MANO · Hand Retargeting |
 | **Ultrasound** | Verasonics · Ultrasound Transmission & Signal Processing · Beamforming · Reconstruction |
-| **Engineering & Hardware** | SolidWorks · Simulation: Static & Structural Strength Analysis · Circuit & PCB Design · Component Selection · Prototyping |
+| **Engineering & Hardware** | SolidWorks · Simulation: Static & Structural Strength Analysis · EasyEDA · Circuit & PCB Design · Component Selection · Prototyping |
 | **AI Coding Tools** | Codex · Claude Code |
+| **Visual Design** | Adobe Illustrator |
 
 ## 🐍 Contributions
 

@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1200&color=2F81F7&center=true&vCenter=true&width=840&height=60&lines=Dexterous+Manipulation+%C2%B7+Teleoperation;Hand+Retargeting+%C2%B7+VLA+Post-Training;Robot+Control+%C2%B7+Robot+Data+%C2%B7+Ultrasound" alt="灵巧操作 · 遥操作 · 灵巧手重定向 · VLA 后训练 · 机器人控制 · 机器人数据 · 超声信号处理" width="100%" />
 
-围绕灵巧操作与遥操作，探索灵巧手重定向、VLA 后训练、机器人控制与数据流程，并开展超声信号处理。
+灵巧操作与遥操作，探索灵巧手重定向、动作捕捉、VLA 后训练、具身数据pipeline与机器人控制、超声信号处理。
 
 </div>
 
@@ -26,6 +26,11 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/robotics-tools.svg" alt="MuJoCo、Isaac Sim、Verasonics 与 SolidWorks" width="420" /><br />
+  <img src="https://raw.githubusercontent.com/Z13156D2/Z13156D2/main/assets/engineering-tools.svg" alt="立创EDA、Codex、Claude Code 与 Adobe Illustrator" width="420" />
+</p>
+
 | 方向 | 技术与能力 |
 | --- | --- |
 | **编程与构建** | Python · C/C++ 基础 · CMake · MATLAB · Git |
@@ -33,8 +38,9 @@
 | **设备与 SDK** | AUBO 机械臂 · Inspire 灵巧手 · NOITOM / PICO 动捕 · RealSense 相机 · 机械臂与人形机器人真机经验 |
 | **算法与模型** | 运动学 · 动力学 · 位姿描述 · 轨迹规划 · 深度学习 · 强化学习 · PyTorch · SMPL-X · MANO · 手部重定向 |
 | **超声技术** | Verasonics · 超声发射与信号处理 · 波束成形 · 图像重建 |
-| **工程与硬件** | SolidWorks · Simulation 静力学与结构强度分析 · 电路与 PCB 设计 · 器件选型 · 打样 |
+| **工程与硬件** | SolidWorks · Simulation 静力学与结构强度分析 · 立创EDA · 电路与 PCB 设计 · 器件选型 · 打样 |
 | **AI 编程工具** | Codex · Claude Code |
+| **视觉设计** | Adobe Illustrator |
 
 ## 🐍 贡献记录
 
