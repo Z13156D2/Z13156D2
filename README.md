@@ -35,7 +35,7 @@ Dexterous manipulation and teleoperation, with a focus on hand retargeting, moti
 
 | Area | Technologies & Skills |
 | --- | --- |
-| **Programming & Build** | Python · C/C++ fundamentals · CMake · MATLAB · Git |
+| **Programming & Build** | Python · C/C++ · CMake · MATLAB · Git |
 | **Robotics & Simulation** | Ubuntu · ROS2 · MuJoCo · Isaac Sim |
 | **Hardware & SDKs** | AUBO arms · Inspire hands · NOITOM & PICO motion capture · RealSense cameras · Real-robot experience with manipulators and humanoids |
 | **Algorithms & Models** | Kinematics · Dynamics · Pose Representations · Trajectory Planning · Deep Learning · Reinforcement Learning · PyTorch · SMPL-X · MANO · Hand Retargeting |
