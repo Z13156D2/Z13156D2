@@ -35,7 +35,7 @@
 
 | 方向 | 技术与能力 |
 | --- | --- |
-| **编程与构建** | Python · C/C++ 基础 · CMake · MATLAB · Git |
+| **编程与构建** | Python · C/C++ · CMake · MATLAB · Git |
 | **机器人与仿真** | Ubuntu · ROS2 · MuJoCo · Isaac Sim |
 | **设备与 SDK** | AUBO 机械臂 · Inspire 灵巧手 · NOITOM / PICO 动捕 · RealSense 相机 · 机械臂与人形机器人真机经验 |
 | **算法与模型** | 运动学 · 动力学 · 位姿描述 · 轨迹规划 · 深度学习 · 强化学习 · PyTorch · SMPL-X · MANO · 手部重定向 |
